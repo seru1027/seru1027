@@ -1,4 +1,4 @@
-# 🌊 안녕하세요, 박세철입니다!!
+# 🌊 안녕하세요, 박세철입니다!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=200&section=header&text=Secheol%20Park&fontSize=70&animation=fadeIn&fontAlignY=38" />
